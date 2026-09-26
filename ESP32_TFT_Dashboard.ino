@@ -1,0 +1,11 @@
+RAVEN
+----------------
+ROBOT STATUS
+CAR : FORWARD
+ARM : READY
+
+DISTANCE : -- cm
+GRIP     : OPEN
+BATTERY  : -- V
+
+IoT : ONLINE
